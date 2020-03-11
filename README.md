@@ -4,7 +4,9 @@ Documentation generator for software projects.
 
 ## Why?
 
-There are many tools for documenting software, but they are fragmented and require a lot of manual work
+There are many tools for documenting software, but they are fragmented and require a lot of manual work. For stellar documentation projects, you need:
+
+1) consistency and maintainability provided by an automatic documentation generation tool
 
 In addition, death by a thousand papercuts due to:
 
